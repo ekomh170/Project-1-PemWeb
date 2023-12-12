@@ -52,15 +52,15 @@
 10. <b>Navigasi menu bisa menggunakan list menu navigasi dengan tidak menggunakan CSS dan JavaScript. Pada link navigasi harus terhubung ke sebuah halaman lain (bisa juga ke halaman diri sendiri)</b>, Menu Website :<br>
     1. <b>Halaman Utama :</b> <a href="https://kreasi.nurulfikri.ac.id/ekom23079ti/Project_01/Toko_Peralatan_Camping/index.html">Link Menu</a>
 
-    2. <b>Deskripsi/Tentang Perusahaan UMKM :</b> <a hred="https://kreasi.nurulfikri.ac.id/ekom23079ti/Project_01/Toko_Peralatan_Camping/about.html">Link Menu</a>
+    2. <b>Deskripsi/Tentang Perusahaan UMKM :</b> <a href="https://kreasi.nurulfikri.ac.id/ekom23079ti/Project_01/Toko_Peralatan_Camping/about.html">Link Menu</a>
 
-    3. <b>Toko Utama :</b> <a hred="https://kreasi.nurulfikri.ac.id/ekom23079ti/Project_01/Toko_Peralatan_Camping/toko_utama.html">Link Menu</a> 
+    3. <b>Toko Utama :</b> <a href="https://kreasi.nurulfikri.ac.id/ekom23079ti/Project_01/Toko_Peralatan_Camping/toko_utama.html">Link Menu</a> 
     
-    4. <b>Tabel List Barang :</b> <a hred="https://kreasi.nurulfikri.ac.id/ekom23079ti/Project_01/Toko_Peralatan_Camping/table_list_barang.html">Link Menu</a>
+    4. <b>Tabel List Barang :</b> <a href="https://kreasi.nurulfikri.ac.id/ekom23079ti/Project_01/Toko_Peralatan_Camping/table_list_barang.html">Link Menu</a>
     
-    5. <b>List Promosi :</b> <a hred="https://kreasi.nurulfikri.ac.id/ekom23079ti/Project_01/Toko_Peralatan_Camping/table_list_barang_promosi.html">Link Menu</a>
+    5. <b>List Promosi :</b> <a href="https://kreasi.nurulfikri.ac.id/ekom23079ti/Project_01/Toko_Peralatan_Camping/table_list_barang_promosi.html">Link Menu</a>
     
-    6. <b>Form Masukan :</b> <a hred="https://kreasi.nurulfikri.ac.id/ekom23079ti/Project_01/Toko_Peralatan_Camping/form_perusahaan.html">Link Menu</a>
+    6. <b>Form Masukan :</b> <a href="https://kreasi.nurulfikri.ac.id/ekom23079ti/Project_01/Toko_Peralatan_Camping/form_perusahaan.html">Link Menu</a>
     <br>
 
 11. <b>Peta Lokasi</b>
